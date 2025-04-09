@@ -106,12 +106,12 @@ export function Sidebar() {
     //   href: "/trainers",
     //   active: pathname === "/trainers",
     // },
-    // {
-    //   label: "Mitra",
-    //   icon: Handshake,
-    //   href: "/partners",
-    //   active: pathname === "/partners",
-    // },
+    {
+      label: "Mitra",
+      icon: Handshake,
+      href: "/partners",
+      active: pathname === "/partners",
+    },
     {
       label: "Kategori Event",
       icon: Tags,

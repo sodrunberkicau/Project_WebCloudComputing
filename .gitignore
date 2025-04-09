@@ -28,9 +28,7 @@ next-env.d.ts
 .vercel
 
 
-/app/partners
-/components/partners-page.tsx
-/components/partners-provider.tsx
+
 
 /app/trainers
 /components/trainers-page.tsx
