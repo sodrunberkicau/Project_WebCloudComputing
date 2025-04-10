@@ -30,13 +30,8 @@ next-env.d.ts
 
 
 
-/app/trainers
-/components/trainers-page.tsx
-/components/trainers-provider.tsx
 
-/app/events
-/components/events-page.tsx
-/components/events-provider.tsx
+
 
 /components/dashboard
 /components/dashboard-page.tsx
