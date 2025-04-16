@@ -8,14 +8,14 @@ import { getAuth, setPersistence, browserLocalPersistence } from "firebase/auth"
  * Berisi kredensial dan pengaturan untuk koneksi ke Firebase
  */
 const firebaseConfig = {
-  apiKey: "AIzaSyD8GVAbD5ATnMwSJxVyqBxJVar6Enu5kHA",
-  authDomain: "slangtech-a3be8.firebaseapp.com",
-  databaseURL: "https://slangtech-a3be8-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "slangtech-a3be8",
-  storageBucket: "slangtech-a3be8.firebasestorage.app",
-  messagingSenderId: "894192138587",
-  appId: "1:894192138587:web:11c8f9b8a086531be2c27e",
-  measurementId: "G-NT9PYD915Z"
+  apiKey: "AIzaSyCw0H8NDOWQTOhhxgdeWboI225-QK33sTo",
+  authDomain: "slangtech-39367.firebaseapp.com",
+  databaseURL: "https://slangtech-39367-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "slangtech-39367",
+  storageBucket: "slangtech-39367.firebasestorage.app",
+  messagingSenderId: "503448097262",
+  appId: "1:503448097262:web:e52ee537dcfb5212ee3eff",
+  measurementId: "G-GG11V4WN3V"
 };
 
 // Inisialisasi variabel Firebase
